@@ -1,0 +1,6 @@
+
+services: []
+cronJobs:
+  - name: daily-retrain-ai
+    schedule: "0 20 * * *"
+    command: "python retrain_daily.py"
