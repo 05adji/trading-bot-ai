@@ -5,3 +5,4 @@ joblib
 requests
 ta
 scikit-learn
+python-binance
